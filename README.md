@@ -1,6 +1,5 @@
 # Twitter Metrics and Political outcomes
 
-Twitter and Political Outcomes
 
 These notebooks are the outcome of a study done during the Fall quarter 2014 Python for Data Science class taught 
 by Brian Grainger at Santa Clara University. The project was carried out by Mudra Patel, Joe Scannura, Fatima Ahtisham, 
