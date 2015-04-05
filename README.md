@@ -14,10 +14,10 @@ We found that these variables were distinct between Republicans and Democrats an
 in the different parties. 
 
 In order to understand the project, it will be necessary to view the files in this order:
-1- Group 6- Introduction
-2- Challenege Explanation (can be skipped, used for class explanatory reasons)
-3- directly gathering candidates info
-4- Creating the final candidate file
-5- MAE creation
-6- MAE master
-7- Data Visualization master
+1) Group 6- Introduction
+2) Challenege Explanation (can be skipped, used for class explanatory reasons)
+3) directly gathering candidates info
+4) Creating the final candidate file
+5) MAE creation
+6) MAE master
+7) Data Visualization master
